@@ -29,3 +29,12 @@ In this prohject we worked as a team for our final project in Bachelor's degree.
 
 # Project 5: Bakery product Item
 I have created Bakery item menu list where we can store the data of the items available in the bakery and also store the orders of the customers.
+
+# Languages:
+  English
+  
+  Hindi
+  
+  Telugu (Native)
+  
+  Swedish (Beginner)
