@@ -1,5 +1,19 @@
 # Kiran_Portfolio
 
+I am a Master’s degree student aspiring to be a data scientist with experience in Machine Learning algorithms, natural language processing. I am a committed individual looking for an opportunity to gain vital experience.
+
+# Education
+  Master's degree in Data Science at Dalarna University, Sweden.
+  
+  Bachelor's degree in Computer Science Engineering at GNiT, India.
+  
+# Skills
+
+    Python
+    SQL
+    R Programming
+    Java(Basics)
+
 
 # Project 1: Fake and Real News Dataset
 I worked on this dataset using RNN, Random Forest and Multinomial Naïve Bayes, to check which is the best among them with different parameters. I have done this project for my Machine Learning course.
